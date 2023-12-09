@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "6439d6319578e8ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "92ac83aed0eb7b6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32f54235cb4cc65b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c02b35c255be5b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8af4d449fb74af70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f85cf8e4fc56569a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e141aaf211c9fc5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a6c0190da435404",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e89bc8199299d9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8783768d08ac4394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "728ef030f07a83c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c3e988740330c14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d29d1859ffe9a82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3b8e79426321bf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "32f54235cb4cc65b",
+  "lastOpenFiles": [
+    "Content/Orchestration/Orchestration.md",
+    "Overview.md",
+    "Programming language.md",
+    "Template.md",
+    "Content/Processing engine/Processing engine.md",
+    "Content/Processing engine/Polars.md",
+    "Content/Processing engine/Pandas.md",
+    "Content/Programming language/Python.md",
+    "Content/Orchestration/Airflow.md",
+    "Content/Orchestration/Mage.md",
+    "Content/Programming language/Golang.md",
+    "Content/Processing engine",
+    "Content/Programming language/Scala.md",
+    "Content/Orchestration/Prefect.md",
+    "second-brain/Content/Programming language/Python.md",
+    "second-brain/Overview.md",
+    "second-brain/README.md",
+    "second-brain"
+  ]
+}

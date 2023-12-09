@@ -7,11 +7,10 @@ This page is a Map of Content. It contains all related programming languages, to
 
 ## Fundamental
 ### Programming language
-[[Python]]
-[[Scala]]
-[[Golang]]
+[[Programming language]]
 
 ### Orchestration
-[[Airflow]]
-[[Mage]]
-[[Prefect]]
+[[Orchestration]]
+
+### Processing engine
+[[Processing engine]]
